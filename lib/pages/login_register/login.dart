@@ -12,7 +12,7 @@ class LoginPage extends StatefulWidget {
 }
 
 class _LoginPageState extends State<LoginPage> {
-  bool _isOn = false;
+  bool _isOn = true;
   final _emailController = TextEditingController();
   final _passwordController = TextEditingController();
 

@@ -15,7 +15,7 @@ class HomePage extends StatelessWidget {
           children: [
             Image.asset(
               'assets/summer.jfif',
-              // height: double.infinity,
+              height: double.infinity, 
               fit: BoxFit.cover,
             ),
             const Positioned(

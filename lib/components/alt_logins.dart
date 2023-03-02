@@ -5,7 +5,7 @@ class LoginOptions extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
+    return SizedBox(
       width: double.maxFinite,
       height: 200,
       child: Column(

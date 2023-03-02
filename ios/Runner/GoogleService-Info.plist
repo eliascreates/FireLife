@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>463904537198-qee67qthdv9k2o0kv1hs4ms6fsnkko9p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.463904537198-qee67qthdv9k2o0kv1hs4ms6fsnkko9p</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAr3_ApBIG65CaTww-89XKK3uYaUxXL-jk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>463904537198</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fireloginPrac</string>
+	<key>PROJECT_ID</key>
+	<string>mycoolpractice</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mycoolpractice.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:463904537198:ios:c2b851f24c03baf5e5047f</string>
+</dict>
+</plist>

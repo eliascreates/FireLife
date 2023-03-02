@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463904537198",
+    "project_id": "mycoolpractice",
+    "storage_bucket": "mycoolpractice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463904537198:android:8ae66e5d162726b2e5047f",
+        "android_client_info": {
+          "package_name": "com.example.firelogin_prac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463904537198-e1rdduj6vq5g7oktdcavp2bljv7f9k91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfIXNkHY_1mCPeeLmMKGxyGR8oXff-Vtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463904537198-e1rdduj6vq5g7oktdcavp2bljv7f9k91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
